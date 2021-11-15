@@ -40,9 +40,6 @@ function Login() {
   return (
     <>
       <div style={{ paddingTop: 60 }}>
-        <Link href="/" passHref>
-          <h3 style={{ textAlign: "center" }}>Access</h3>
-        </Link>
         <Card style={{ width: 540, margin: "auto" }}>
           {/* <div style={{ margin: "auto", width: "100%" }}>
             <GoogleLogin
@@ -126,9 +123,6 @@ function Login() {
               </Button>
             </Form.Item>
           </Form>
-          <span>
-            Dont have an account? <Link href='/register'>Sign up</Link>
-          </span>
         </Card>
       </div>
     </>
