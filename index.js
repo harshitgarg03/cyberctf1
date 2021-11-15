@@ -105,9 +105,7 @@ function Login() {
               <Input.Password />
             </Form.Item>
             <p style={{ margin: 0, marginTop: 5 }}>
-              <Link style={{ textAlign: "left", marginTop: 20 }}>
-                Forgot password?
-              </Link>
+              
             </p>
             <Form.Item>
               <Button
@@ -127,7 +125,7 @@ function Login() {
             </Form.Item>
           </Form>
           <span>
-            Dont have an account? <Link href='/register'>Sign up</Link>
+            Hint for password: BLABLA
           </span>
         </Card>
       </div>
