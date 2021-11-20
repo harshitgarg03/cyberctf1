@@ -6,8 +6,8 @@ import baby_step
 import ecb
 
 # Right Half of qr code:
-
-#DHKE:
+print(f'Right Qr Code Encryption and Decryption ----------------------------------')
+# DHKE:
 
 # Public Values
 p = 1048573 
@@ -30,11 +30,15 @@ sharedkey = primes.square_multiply(B, a, p)
 print(f'Shared Key: {sharedkey}\n')
 
 # Encrypt link using ECB with present
+print(f'Encrypting link using ECB')
 ecb.ecb("link.txt", "encrypted_link.txt", sharedkey, 'e')
+print(f'Encryption Completed\n')
 
 # Decrypt
+print(f'Decrypting link using ECB')
 ecb.ecb("encrypted_link.txt", "decrypted_link.txt", sharedkey, 'd')
-
+print(f'Decryption Completed\n')
+print(f'Decrypted link is:\nhttps://cyberctf1.vercel.app/qr_right_encrypted_ajgddhfiwifgweigfweif\n')
 
 
 # Steps to get sharedkey
@@ -49,12 +53,22 @@ print("Actual shared key :", sharedkey)
 
 
 # Left Half of qr code:
+print(f'\nLeft Qr Code Encryption and Decryption ----------------------------------\n')
+
+# Key is smaller than 128
+
+qr_key = 37
 
 #Encrypt left qr code:
-ecb.ecb("images/left_qr_code.jpg", "images/encrypted_left_qr_code.ppm", sharedkey, 'e')
-# ecb.ecb("images/left_qr_code.ppm", "images/test.ppm", sharedkey, 'e')
+print(f'Encrypting left qr code using ECB')
+ecb.ecb("images/left_qr_code.jpg", "images/encrypted_left_qr_code.jpg", qr_key, 'e')
+print(f'Encryption Completed\n')
 
 
 #Decrypt left qr code:
-ecb.ecb("images/encrypted_left_qr_code.ppm", "images/decrypted_left_qr_code.ppm", sharedkey, 'd')
-# python extract.py -i images/test.ppm -o images/decrypt.ppm -hh header.ppm
+print(f'Decrypting link using ECB')
+for i in range(128):
+    ecb.ecb("images/encrypted_left_qr_code.jpg", "test_images/img"+ str(i) + ".jpg", i, 'd')
+    print(f'Decrypting image {i}')
+print(f'Decryption Completed\n')
+print(f'Decrypted image is found at image number 37\n')

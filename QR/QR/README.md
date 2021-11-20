@@ -14,7 +14,7 @@ To find the random private keys, the groups will have to use Baby-Step Giant-Ste
 After finding the random private keys, the groups will be able to get the shared key via the square and multiply method.
 They can use the sharedkey to decrypt the ECB to find the plaintext goole drive shared link which will lead them to the right halve of the qr code. 
 
-The left half will also be encrypted with ECB. The key used to encrypt will be the same as the key used to decrpyt to find the right half.
+The left half will also be encrypted with ECB. The key used to encrypt will be a random number smaller than 128. Groups can bruteforce using a for loop to get the decrypted image.
 
 Once the groups have found both images, they will need to combine both qr code together to find the flag.
 
@@ -30,8 +30,8 @@ p = 1048573
 A = primes.square_multiply(α,a,p)
 B = primes.square_multiply(α,b,p)
 
-Google Drive link for right file: 
-https://drive.google.com/file/d/1Jvfs7rgqMpsL_ZcGoamda1vGcDvs8Q-d/view?usp=sharing
+Link for right file: 
+https://cyberctf1.vercel.app/qr_right_encrypted_ajgddhfiwifgweigfweif
 
 
 
