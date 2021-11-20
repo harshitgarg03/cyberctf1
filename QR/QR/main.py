@@ -10,14 +10,15 @@ print(f'Right Qr Code Encryption and Decryption --------------------------------
 # DHKE:
 
 # Public Values
-p = 1048573 
-α = 98
+# 2 ^ 30
+p = 1073741827 
+α = 131
 
 print(f'\nP:{p}\na:{α}\n')
 
 #Private keys:
-a = 60
-b = 94
+a = 104124
+b = 10385173
 
 #Public Keys:
 A = primes.square_multiply(α,a,p)
