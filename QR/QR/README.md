@@ -22,16 +22,18 @@ Files shown to the students:
 encrypted_link.txt (Contains the encrypted google shared drive link)
 encrypted_left_qr_code.ppm (Decrypt to obtain the left half of the qr code)
 
-Values shown to students (DHKE):
-p = 1048573 
-α = 98
-
-#Public Keys:
-A = primes.square_multiply(α,a,p)
-B = primes.square_multiply(α,b,p)
-
 Link for right file: 
 https://cyberctf1.vercel.app/qr_right_encrypted_ajgddhfiwifgweigfweif
+
+Values shown to students (DHKE):
+p = 1073741827 
+α = 131
+
+#Public Keys:
+A = 592539029 
+B = 138425493
+
+
 
 
 
