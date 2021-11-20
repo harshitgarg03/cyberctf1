@@ -8,11 +8,11 @@ The catch:
 
 The QR code is split into half. 
 
-The right half will be hidden behind a goole drive shared link. This link is encrypted using ECB with the key hidden behind DHKE.
+The right half will be hidden behind a link. This link is encrypted using ECB with the key hidden behind DHKE.
 To find the random private keys, the groups will have to use Baby-Step Giant-Step Method. The respective public keys will be made available to the groups.
 
 After finding the random private keys, the groups will be able to get the shared key via the square and multiply method.
-They can use the sharedkey to decrypt the ECB to find the plaintext goole drive shared link which will lead them to the right halve of the qr code. 
+They can use the sharedkey to decrypt the ECB to find the plaintext link which will lead them to the right half of the qr code. 
 
 The left half will also be encrypted with ECB. The key used to encrypt will be a random number smaller than 128. Groups can bruteforce using a for loop to get the decrypted image.
 
