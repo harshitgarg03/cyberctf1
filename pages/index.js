@@ -121,7 +121,8 @@ function Login() {
               </Button>
             </Form.Item>
           </Form>
-          <span>Hint for password: BLABLA BLA</span>
+          <span>Email: cyberctf@mail.com
+            <br/><br/>Hint for password: 0x 69 6c 6f 76 65 63 74 66 40 30 30 37</span>
         </Card>
       </div>
     </>
