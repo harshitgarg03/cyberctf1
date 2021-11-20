@@ -1,5 +1,7 @@
 Prof Version
 
+Solution code: main.py
+
 How to find the flag:
 
 The flag will be hidden in the QR code (located in images/qr_code.png)
