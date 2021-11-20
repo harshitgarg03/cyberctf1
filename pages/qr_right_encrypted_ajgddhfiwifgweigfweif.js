@@ -30,7 +30,7 @@ function Challenge() {
 
   return (
     <div>
-        <h1><img src="right_qr_code.jpg"></img></h1>
+        <h1><img src="https://lh6.googleusercontent.com/QSh7yrb5XMpln13Yn-fgtjQuNu1eVL0OHFmQfR4P_HPGZzFgJ7Cf6XSPd0tJMH6HDRbIyvW_Fiffjg=w1919-h880"></img></h1>
         
     </div>
   );
