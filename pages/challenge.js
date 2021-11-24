@@ -53,7 +53,7 @@ Cthpk sbfcwbtgk ttg gsnkite kb hsx loxa kccww, yaw cpetmn m ood ytqep “khsc iv
 <br/><br/>
 
 Qickinf Rohs:
-Tw yaw qcymmngg hvp hviskbow iett aci qhplaysr , jhy sfwapwx ypap 6 bixuire, gbqcrttqf gwrgfomtr(<a href="https://docs.google.com/document/d/1AWpvV1_2h0SzYuG_olEObAmvM9qn6DnH0Pla9BHo4xo/edit?usp=sharing">vemts://ptwjp.zsosns.qzf/yc?uf=1XTVR0muvU9VeeAy20izRIKBWuIM5QP6h&pqtodv=rchgpomf</a>) obo ieizvsr zg xhq uhcyxw bgv 2 ghzgis tcjs hkmtupug eaet mts tlbrtxa jwdbflq . Qbs dmsnq jog eai ngopsc iviyg bixuir b= 1073741827 , cbceair evcbp aes fjs bfffed ɑ = 131 , vvs zmled 2 uhcyxw stqk 2 flghoy piamxvs 592539029 mpr 138425493. Hsxr a ekubmherp kb tchrt ah hvp lxozgg kchxe “Fq ticmled ecbebruq fcky mlie rohs , nwe fjsgp gymngfg rbzez vc cmmeiz vvs lgwwqt cb eai tiq ghzgis ijwqs tve rcwbeec vuuwpwx . Cog ywzw ui guxsb l aelr msm eh xhq rckpk sf Anmaanw ir aci dhpvq kh . Uzhh lgey oooinfwfsc.” 
+Tw yaw qcymmngg hvp hviskbow iett aci qhplaysr , jhy sfwapwx ypap 6 bixuire, gbqcrttqf gwrgfomtr(<a href="https://docs.google.com/document/d/1AWpvV1_2h0SzYuG_olEObAmvM9qn6DnH0Pla9BHo4xo/edit?usp=sharing" target="_blank">vemts://ptwjp.zsosns.qzf/yc?uf=1XTVR0muvU9VeeAy20izRIKBWuIM5QP6h&pqtodv=rchgpomf</a>) obo ieizvsr zg xhq uhcyxw bgv 2 ghzgis tcjs hkmtupug eaet mts tlbrtxa jwdbflq . Qbs dmsnq jog eai ngopsc iviyg bixuir b= 1073741827 , cbceair evcbp aes fjs bfffed ɑ = 131 , vvs zmled 2 uhcyxw stqk 2 flghoy piamxvs 592539029 mpr 138425493. Hsxr a ekubmherp kb tchrt ah hvp lxozgg kchxe “Fq ticmled ecbebruq fcky mlie rohs , nwe fjsgp gymngfg rbzez vc cmmeiz vvs lgwwqt cb eai tiq ghzgis ijwqs tve rcwbeec vuuwpwx . Cog ywzw ui guxsb l aelr msm eh xhq rckpk sf Anmaanw ir aci dhpvq kh . Uzhh lgey oooinfwfsc.” 
 <br/><br/>
 
  “bxed rfcghgafkcbtl” tafj:
