@@ -35,7 +35,7 @@ function Challenge() {
     <div>
         <h1>Yayyy! you sucessfully cleared the first obstacle. Here you go </h1>
         <br/>
-        <h2>Here's your challenge... Have Fun :)</h2>
+        <h2>Here is your challenge... Have Fun :)</h2>
         <p>
         LXODA<br/><br/>
 
